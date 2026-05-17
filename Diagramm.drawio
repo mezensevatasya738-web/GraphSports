@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36" pages="2">
+  <diagram name="Страница — 1" id="zBFs6MIG9Z9Lqpzzn9xH">
+    <mxGraphModel dx="1030" dy="535" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="FinQx7m2byokim8xOtSH-1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=#AAFFA9;" value="&lt;b&gt;ATHLETE&lt;/b&gt;&lt;div&gt;&lt;pre style=&quot;font-style: normal; font-variant: normal; font-size-adjust: none; font-language-override: normal; font-kerning: auto; font-optical-sizing: auto; font-feature-settings: normal; font-variation-settings: normal; font-stretch: normal; font-size: 13px; line-height: 22px; font-family: Menlo, Monaco, Consolas, &amp;quot;Cascadia Mono&amp;quot;, &amp;quot;Ubuntu Mono&amp;quot;, &amp;quot;DejaVu Sans Mono&amp;quot;, &amp;quot;Liberation Mono&amp;quot;, &amp;quot;JetBrains Mono&amp;quot;, &amp;quot;Fira Code&amp;quot;, Cousine, &amp;quot;Roboto Mono&amp;quot;, &amp;quot;Courier New&amp;quot;, Courier, sans-serif, system-ui; overflow: auto; white-space: pre-wrap; word-break: break-all; padding: 16px; color: rgb(15, 17, 21); text-align: start; margin: 0px !important;&quot;&gt;athletes_id last_name&lt;br&gt;first_name&lt;br&gt;group_number&lt;/pre&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="140" width="120" x="110" y="230" as="geometry" />
+        </mxCell>
+        <mxCell id="FinQx7m2byokim8xOtSH-2" parent="1" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=#C4C2FF;" value="&lt;span style=&quot;&quot;&gt;&lt;b&gt;COACH&lt;/b&gt;&lt;/span&gt;&lt;div&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;div&gt;&lt;span style=&quot;color: rgb(15, 17, 21); font-family: Menlo, Monaco, Consolas, &amp;quot;Cascadia Mono&amp;quot;, &amp;quot;Ubuntu Mono&amp;quot;, &amp;quot;DejaVu Sans Mono&amp;quot;, &amp;quot;Liberation Mono&amp;quot;, &amp;quot;JetBrains Mono&amp;quot;, &amp;quot;Fira Code&amp;quot;, Cousine, &amp;quot;Roboto Mono&amp;quot;, &amp;quot;Courier New&amp;quot;, Courier, sans-serif, system-ui; font-size: 14px; text-align: start;&quot;&gt;coach_id last_name first_name experience&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="120" width="120" x="110" y="80" as="geometry" />
+        </mxCell>
+        <mxCell id="FinQx7m2byokim8xOtSH-3" parent="1" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=#F9FFD2;" value="&lt;span style=&quot;font-weight: 600; color: rgb(15, 17, 21); font-family: quote-cjk-patch, Inter, system-ui, -apple-system, BlinkMacSystemFont, &amp;quot;Segoe UI&amp;quot;, Roboto, Oxygen, Ubuntu, Cantarell, &amp;quot;Open Sans&amp;quot;, &amp;quot;Helvetica Neue&amp;quot;, sans-serif; font-size: 16px; text-align: start;&quot;&gt;&lt;span class=&quot;&quot; style=&quot;&quot;&gt;Sport&lt;/span&gt;&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-weight: 600; color: rgb(15, 17, 21); font-family: quote-cjk-patch, Inter, system-ui, -apple-system, BlinkMacSystemFont, &amp;quot;Segoe UI&amp;quot;, Roboto, Oxygen, Ubuntu, Cantarell, &amp;quot;Open Sans&amp;quot;, &amp;quot;Helvetica Neue&amp;quot;, sans-serif; font-size: 16px; text-align: start;&quot;&gt;&lt;span class=&quot;&quot; style=&quot;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;color: rgb(15, 17, 21); font-family: Menlo, Monaco, Consolas, &amp;quot;Cascadia Mono&amp;quot;, &amp;quot;Ubuntu Mono&amp;quot;, &amp;quot;DejaVu Sans Mono&amp;quot;, &amp;quot;Liberation Mono&amp;quot;, &amp;quot;JetBrains Mono&amp;quot;, &amp;quot;Fira Code&amp;quot;, Cousine, &amp;quot;Roboto Mono&amp;quot;, &amp;quot;Courier New&amp;quot;, Courier, sans-serif, system-ui; font-size: 14px; text-align: start;&quot;&gt;s&lt;/span&gt;&lt;span style=&quot;color: rgb(15, 17, 21); font-family: Menlo, Monaco, Consolas, &amp;quot;Cascadia Mono&amp;quot;, &amp;quot;Ubuntu Mono&amp;quot;, &amp;quot;DejaVu Sans Mono&amp;quot;, &amp;quot;Liberation Mono&amp;quot;, &amp;quot;JetBrains Mono&amp;quot;, &amp;quot;Fira Code&amp;quot;, Cousine, &amp;quot;Roboto Mono&amp;quot;, &amp;quot;Courier New&amp;quot;, Courier, sans-serif, system-ui; font-size: 14px; text-align: start;&quot;&gt;port_id sport_name description&lt;/span&gt;&lt;span style=&quot;font-weight: 600; color: rgb(15, 17, 21); font-family: quote-cjk-patch, Inter, system-ui, -apple-system, BlinkMacSystemFont, &amp;quot;Segoe UI&amp;quot;, Roboto, Oxygen, Ubuntu, Cantarell, &amp;quot;Open Sans&amp;quot;, &amp;quot;Helvetica Neue&amp;quot;, sans-serif; font-size: 16px; text-align: start;&quot;&gt;&lt;span class=&quot;&quot;&gt;&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="110" width="110" x="570" y="260" as="geometry" />
+        </mxCell>
+        <mxCell id="FinQx7m2byokim8xOtSH-4" parent="1" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=#FFBCB6;" value="&lt;span style=&quot;font-weight: 600; color: rgb(15, 17, 21); font-family: quote-cjk-patch, Inter, system-ui, -apple-system, BlinkMacSystemFont, &amp;quot;Segoe UI&amp;quot;, Roboto, Oxygen, Ubuntu, Cantarell, &amp;quot;Open Sans&amp;quot;, &amp;quot;Helvetica Neue&amp;quot;, sans-serif; font-size: 16px; text-align: start;&quot;&gt;&lt;span class=&quot;&quot;&gt;Competition&lt;/span&gt;&lt;/span&gt;&lt;div&gt;&lt;div style=&quot;text-align: start;&quot;&gt;&lt;font color=&quot;#0f1115&quot; face=&quot;quote-cjk-patch, Inter, system-ui, -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Oxygen, Ubuntu, Cantarell, Open Sans, Helvetica Neue, sans-serif&quot;&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;color: rgb(15, 17, 21); font-family: Menlo, Monaco, Consolas, &amp;quot;Cascadia Mono&amp;quot;, &amp;quot;Ubuntu Mono&amp;quot;, &amp;quot;DejaVu Sans Mono&amp;quot;, &amp;quot;Liberation Mono&amp;quot;, &amp;quot;JetBrains Mono&amp;quot;, &amp;quot;Fira Code&amp;quot;, Cousine, &amp;quot;Roboto Mono&amp;quot;, &amp;quot;Courier New&amp;quot;, Courier, sans-serif, system-ui; font-size: 14px; text-align: start;&quot;&gt;competition_id name&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;color: rgb(15, 17, 21); font-family: Menlo, Monaco, Consolas, &amp;quot;Cascadia Mono&amp;quot;, &amp;quot;Ubuntu Mono&amp;quot;, &amp;quot;DejaVu Sans Mono&amp;quot;, &amp;quot;Liberation Mono&amp;quot;, &amp;quot;JetBrains Mono&amp;quot;, &amp;quot;Fira Code&amp;quot;, Cousine, &amp;quot;Roboto Mono&amp;quot;, &amp;quot;Courier New&amp;quot;, Courier, sans-serif, system-ui; font-size: 14px; text-align: start;&quot;&gt;&amp;nbsp;date&amp;nbsp;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;color: light-dark(rgb(15, 17, 21), rgb(222, 223, 227)); font-family: Menlo, Monaco, Consolas, &amp;quot;Cascadia Mono&amp;quot;, &amp;quot;Ubuntu Mono&amp;quot;, &amp;quot;DejaVu Sans Mono&amp;quot;, &amp;quot;Liberation Mono&amp;quot;, &amp;quot;JetBrains Mono&amp;quot;, &amp;quot;Fira Code&amp;quot;, Cousine, &amp;quot;Roboto Mono&amp;quot;, &amp;quot;Courier New&amp;quot;, Courier, sans-serif, system-ui; font-size: 14px; text-align: start;&quot;&gt;location&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="110" width="120" x="560" y="80" as="geometry" />
+        </mxCell>
+        <mxCell id="FinQx7m2byokim8xOtSH-5" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Типы узлов графа" vertex="1">
+          <mxGeometry height="30" width="120" x="354" y="10" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="uxzjdO-2U_37WyYanDCs" name="Страница-2">
+    <mxGraphModel dx="824" dy="428" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="0Kk1XEMobSDlD4jPgR6j-15" edge="1" parent="1" source="v5pIXR_I0OarrkJ8XtgX-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="v5pIXR_I0OarrkJ8XtgX-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="v5pIXR_I0OarrkJ8XtgX-1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=#AAFFA9;" value="Максим Борисов&lt;div&gt;(ATLETHE)&lt;/div&gt;" vertex="1">
+          <mxGeometry height="40" width="100" x="110" y="250" as="geometry" />
+        </mxCell>
+        <mxCell id="0Kk1XEMobSDlD4jPgR6j-1" edge="1" parent="1" source="v5pIXR_I0OarrkJ8XtgX-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="mTme8jXs9_0VvhwDG6xe-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="0Kk1XEMobSDlD4jPgR6j-6" edge="1" parent="1" source="v5pIXR_I0OarrkJ8XtgX-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="JAT5sY-hj4grGS26H6-8-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="0Kk1XEMobSDlD4jPgR6j-14" edge="1" parent="1" source="v5pIXR_I0OarrkJ8XtgX-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;html=1;convertToSvg=1;" target="k8Ony-Z1KZSwZRMkUOTx-1" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="v5pIXR_I0OarrkJ8XtgX-2" parent="1" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=#AAFFA9;" value="Виктор Бондарев&lt;div&gt;(ATLETHE)&lt;/div&gt;" vertex="1">
+          <mxGeometry height="40" width="100" x="330" y="250" as="geometry" />
+        </mxCell>
+        <mxCell id="0Kk1XEMobSDlD4jPgR6j-12" edge="1" parent="1" source="mTme8jXs9_0VvhwDG6xe-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" target="JAT5sY-hj4grGS26H6-8-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="mTme8jXs9_0VvhwDG6xe-1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=#C4C2FF;" value="Сергей Петрович&lt;div&gt;(COACH)&lt;/div&gt;" vertex="1">
+          <mxGeometry height="40" width="100" x="610" y="360" as="geometry" />
+        </mxCell>
+        <mxCell id="JAT5sY-hj4grGS26H6-8-1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=#F9FFD2;" value="Легкая атлетика&lt;div&gt;(SPORT)&lt;/div&gt;" vertex="1">
+          <mxGeometry height="40" width="100" x="610" y="250" as="geometry" />
+        </mxCell>
+        <mxCell id="k8Ony-Z1KZSwZRMkUOTx-1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=#FFBCB6;" value="Зимний Кубок&lt;div&gt;(COMPETITION)&lt;/div&gt;" vertex="1">
+          <mxGeometry height="40" width="100" x="330" y="100" as="geometry" />
+        </mxCell>
+        <mxCell id="0Kk1XEMobSDlD4jPgR6j-16" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Trains" vertex="1">
+          <mxGeometry height="30" width="60" x="480" y="350" as="geometry" />
+        </mxCell>
+        <mxCell id="0Kk1XEMobSDlD4jPgR6j-17" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Specializes_ in" vertex="1">
+          <mxGeometry height="30" width="100" x="470" y="240" as="geometry" />
+        </mxCell>
+        <mxCell id="0Kk1XEMobSDlD4jPgR6j-18" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Participates_in" vertex="1">
+          <mxGeometry height="30" width="100" x="380" y="170" as="geometry" />
+        </mxCell>
+        <mxCell id="0Kk1XEMobSDlD4jPgR6j-19" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Coaches_sport" vertex="1">
+          <mxGeometry height="30" width="90" x="660" y="310" as="geometry" />
+        </mxCell>
+        <mxCell id="0Kk1XEMobSDlD4jPgR6j-20" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Follows" vertex="1">
+          <mxGeometry height="30" width="60" x="240" y="240" as="geometry" />
+        </mxCell>
+        <mxCell id="hiVLwORqym835GeTOTA7-1" parent="1" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" value="id=1" vertex="1">
+          <mxGeometry height="30" width="30" x="320" y="280" as="geometry" />
+        </mxCell>
+        <mxCell id="hiVLwORqym835GeTOTA7-2" parent="1" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" value="id=9" vertex="1">
+          <mxGeometry height="30" width="30" x="90" y="280" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
